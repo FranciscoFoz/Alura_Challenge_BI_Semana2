@@ -23,10 +23,8 @@
 <br>
 
 <h1>Tratamento dos Dados</h1>
-<ul>
-<li>
-<li>
-<li>
+<ul>Limpeza de dados
+<li>Alteração da tipagem
 </ul>
 
 
