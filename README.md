@@ -28,21 +28,8 @@
 </ul>
 
 
-<h1>Métricas</h1>
-<ul>
-<li>
-<li>  
-</ul>
+<h1>Resultados</h1>
+O relatório poderá ser acessado por este <a href="https://app.powerbi.com/reportEmbed?reportId=fbd3443a-cf55-4133-bf13-34730b772a5a&autoAuth=true&ctid=b7845ad6-74cd-4782-aea9-57359643b87b&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" target="_blank">link</a>:
 
-<br>
-
-<h1>Relacionamentos</h1>
-
-<ul>
-<li>Pedidos(n) - (1)Produtos = muitos para um (n-1)
-
-</ul>
-
-<br>
 
 <h1>Link do Dashboard</h1>
