@@ -3,7 +3,7 @@
 ![](https://images.unsplash.com/photo-1587614313085-5da51cebd8ac?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870)
 
 
-Photo by [Windows]([https://unsplash.com/@hdbernd](https://unsplash.com/@windows)) on [Unsplash](https://unsplash.com/)
+Photo by [Windows]((https://unsplash.com/@windows)) on [Unsplash](https://unsplash.com/)
 <p> Repositório elaborado para armazenar e compartilhar os projetos do Alura Challenges BI. O desafio proposto pela Alura  foi para desenvolvermos projetos em BI para criarmos um portifólio. </p>
 
 ## Resumo: 
