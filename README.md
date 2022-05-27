@@ -35,5 +35,5 @@ Photo by [Windows]((https://unsplash.com/@windows)) on [Unsplash](https://unspla
 
 
 
-O relatório poderá ser acessado por este <a href="https://app.powerbi.com/reportEmbed?reportId=f56e1b1b-5ae5-44ff-8b9b-0ac6bfc72f88&autoAuth=true&ctid=712f9db4-6407-4075-846a-52d00afd93ff&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWJyYXppbC1zb3V0aC1iLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" target="_blank">link</a>
+O relatório poderá ser acessado por este <a href="https://app.powerbi.com/view?r=eyJrIjoiN2NmMGU3ZTItY2Q1OS00ZDYxLWI5ZDUtZTE3MmMxMTQzZDI5IiwidCI6IjcxMmY5ZGI0LTY0MDctNDA3NS04NDZhLTUyZDAwYWZkOTNmZiJ9">link</a>
 
