@@ -1,13 +1,21 @@
-# Alura Challenge BI - Semana 2
+# Alura Challenge BI - Semana 2 - Dashboard de Marketing
 
-![](https://images.unsplash.com/photo-1587614313085-5da51cebd8ac?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870)
+O objetivo desse projeto foi desenvolver um dashboard estratégico de marketing para realizar a 2ª semana do Alura Challenge BI - 2021.
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Alura Challenge BI - Semana 2 - Dashboard de Marketing**
+| :label: Tecnologias | power bi
+| :rocket: URL         | https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana2
+| :fire: Desafio     | 
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://images.unsplash.com/photo-1587614313085-5da51cebd8ac?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870#vitrinedev)
 
 Photo by [Windows]((https://unsplash.com/@windows)) on [Unsplash](https://unsplash.com/)
-<p> Repositório elaborado para armazenar e compartilhar os projetos do Alura Challenges BI. O desafio proposto pela Alura  foi para desenvolvermos projetos em BI para criarmos um portifólio. </p>
+
 
 ## Resumo: 
-
 
 ### Semana 2:
 <p> Agora a Alura Shop investiu em publicidade para se destacar no mercado, e a gerência da empresa tem dúvidas se o retorno dessa propaganda surtiu efeito. A nossa missão é apoiar a gerência em suas tomadas de decisão, e elucidar as dúvidas. Para isso desenvolveremos um dashboard estratégico de marketing com o objetivo de monitorar uma campanha de publicidade paga durante o mês de julho de 2021. Apresentaremos indicadores relevantes para a validação estratégica do negócio. </p>
